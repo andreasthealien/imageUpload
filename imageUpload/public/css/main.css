@@ -1,0 +1,10 @@
+#image-upload {
+    display: flex;
+    flex-direction: column;
+}
+#image-upload * {
+    margin: 20px;
+}
+#image-upload input {
+    height: 100px;
+}
